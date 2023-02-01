@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-    int input, total = 0, total2 = 0, average;
+    int input, total = 0, total2 = 0;
+    double average;
     Scanner inp = new Scanner(System.in);
 
         System.out.print("Please enter the number :");
